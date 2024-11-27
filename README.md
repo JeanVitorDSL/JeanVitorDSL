@@ -3,7 +3,7 @@
 ## Meus Cursos
 ### Ciências da Computação (Em Andamento) - GRUPO UNIS
 ### Técnico em Redes De Computadores - SENAI
-## JavaScrpit Iniciante - Cursos Em Video
+### JavaScrpit Iniciante - Cursos Em Video
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
