@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&line=Olá+Amigo!)](https://git.io/typing-svg)
 ### Olá eu sou Jean Vitor! Bem-Vindo ao meu Perfil! Obrigado pela visita! ✌🏼
 
 ## Meus Cursos
