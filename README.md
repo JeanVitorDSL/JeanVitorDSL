@@ -1,8 +1,8 @@
 ### Olá eu sou Jean Vitor! Bem-Vindo ao meu Perfil! Obrigado pela visita! ✌🏼
 
-### Meus Cursos
-## Ciências da Computação (Em Andamento)
-## Técnico em Redes De Computadores
+## Meus Cursos
+### Ciências da Computação (Em Andamento)
+### Técnico em Redes De Computadores
 ## 
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988963222)
