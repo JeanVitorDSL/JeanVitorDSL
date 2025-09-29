@@ -34,5 +34,4 @@ Hey there! I'm Jean Vitor, a Computer Science student in 1° period!
 - 🐛 **Total Issues:** 0  
 - 📊 **Contributed to (last year):** 0  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jeanvitor&show_icons=true&theme=dark)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=JeanVitorDSL&show_icons=true&theme=dark)
