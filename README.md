@@ -1,14 +1,40 @@
-![GithubAnimation](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
-### Olá eu sou Jean Vitor! Bem-Vindo ao meu Perfil! Obrigado pela visita!
+# Jean Vitor
 
-## Meus Cursos
-### Ciências da Computação (Em Andamento) - GRUPO UNIS
-### Técnico em Redes De Computadores - SENAI
-### JavaScrpit Iniciante - Cursos Em Video
+## About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+Hey there! I'm Jean Vitor, a Computer Science student in 1° period!  
 
+- 📘 **Studying**  
+  ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Database](https://img.shields.io/badge/-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535988963222)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-vitor-da-silva-lopes-881ab422b/)
+- 🌱 **Currently exploring:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
+---
+
+## Contact Me  
+
+- 📩 Want to get in touch?  
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanrucoyonline@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-vitor-da-silva-lopes-881ab422b/)  
+
+---
+
+## Activities  
+
+### Jean Vitor’s GitHub Stats  
+
+- ⭐ **Total Stars Earned:** 0  
+- 📌 **Total Commits (last year):** 8  
+- 🔄 **Total PRs:** 0  
+- 🐛 **Total Issues:** 0  
+- 📊 **Contributed to (last year):** 0  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jeanvitor&show_icons=true&theme=dark)
