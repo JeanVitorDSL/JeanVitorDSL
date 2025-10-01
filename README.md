@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! I'm Jean Vitor, a Computer Science student in 1° period!  
+Hey there! I'm Jean Vitor, a Computer Science student in 4° period!  
 
 - 📘 **Studying**  
 
