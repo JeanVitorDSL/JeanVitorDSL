@@ -8,10 +8,11 @@ Hey there! I'm Jean Vitor, a Computer Science student in 4° period!
 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
   ![Database](https://img.shields.io/badge/-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 
 - 🌱 **Currently exploring:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+  ![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)  
 
 ---
 
