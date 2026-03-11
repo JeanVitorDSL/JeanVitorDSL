@@ -25,6 +25,10 @@ Hey there! I'm Jean Vitor, a Computer Science student in 5° period!
 
 ---
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+
+---
+
 ## Activities  
 
 ### Jean Vitor’s GitHub Stats  
