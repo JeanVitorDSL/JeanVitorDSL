@@ -25,7 +25,7 @@ Hey there! I'm Jean Vitor, a Computer Science student in 5° period!
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31djbofn7caxq3tkftfopoy3sw34&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31djbofn7caxq3tkftfopoy3sw34&unique={true|1|on|yes})
 
 ---
 
