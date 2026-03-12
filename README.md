@@ -1,42 +1,69 @@
-# Jean Vitor
-
-## About Me
-
-Hey there! I'm Jean Vitor, a Computer Science student in 5° period!  
-
-- 📘 **Studying**  
-
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-  ![Database](https://img.shields.io/badge/-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-
-- 🌱 **Currently exploring:**  
-
-  ![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)  
+<div align="center">
+  <h1>Hello, I'm Jean Vitor 👋</h1>
+  <p><b>Computer Science Student</b></p>
+  <p>Linux • DevOps • Backend</p>
+  <p><i>Learning and building systems</i></p>
+</div>
 
 ---
 
-## Contact Me  
+### 🟦 About me
 
-- 📩 Want to get in touch?  
+I am a **Computer Science student (5th semester)** passionate about **technology, infrastructure and backend development.**
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanrucoyonline@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-vitor-da-silva-lopes-881ab422b/)  
+I enjoy learning how systems work internally, from **operating systems and databases to backend services and automation.**
+
+Currently, I focus my studies on **Linux environments, DevOps practices, and backend development with Go**, always aiming to improve my **problem-solving and system design skills.**
+
+* **Main interests:** DevOps, Linux systems, backend development
+* **Currently studying:** Go, Databases and Linux environments
+* **Tools:** Git, Docker, PostgreSQL, GiTHub
+* **Goal:** Start my career working with **DevOps or backend infrastructure**
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31djbofn7caxq3tkftfopoy3sw34&unique={true|1|on|yes})
+### 🟦 Tech Stack
+
+<div align="center">
+  
+<p><b>✦ BackEnd,Systems & DevOps</b></p>
+<code>LINUX</code> <code>DOCKER</code> <code>GIT</code>
+
+<p><b>✦ Backend</b></p>
+<code>GO</code> <code>Python</code>
+
+<p><b>✦ Databases</b></p>
+<code>POSTGRESQL</code> <code>SQL</code>
+
+</div>
 
 ---
 
-## Activities  
+### 🟦 Recently Played on Spotify 🎵
 
-### Jean Vitor’s GitHub Stats  
+<div align="center">
 
-- ⭐ **Total Stars Earned:** 0  
-- 📌 **Total Commits (last year):** 8  
-- 🔄 **Total PRs:** 0  
-- 🐛 **Total Issues:** 0  
-- 📊 **Contributed to (last year):** 0  
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31djbofn7caxq3tkftfopoy3sw34&unique=true)
+
+</div>
+
+---
+
+### 🟦 GitHub Stats
+
+<div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JeanVitorDSL&show_icons=true&theme=dark)
+
+</div>
+
+---
+
+### 🟦 Contacts
+
+<div align="center">
+
+<a href="mailto:jeanrucoyonline@gmail.com"><code>GMAIL</code></a>
+<a href="https://www.linkedin.com/in/jean-vitor-da-silva-lopes-881ab422b/"><code>LINKEDIN</code></a>
+
+</div>
