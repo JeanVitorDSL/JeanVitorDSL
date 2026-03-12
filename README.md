@@ -18,7 +18,7 @@ Currently, I focus my studies on **Linux environments, DevOps practices, and bac
 * **Main interests:** DevOps, Linux systems, backend development
 * **Currently studying:** Go, Databases and Linux environments
 * **Tools:** Git, Docker, PostgreSQL, GiTHub
-* **Goal:** Start my career working with **DevOps or backend infrastructure**
+* **Goal:** Keep my career working with **DevOps or backend infrastructure**
 
 ---
 
