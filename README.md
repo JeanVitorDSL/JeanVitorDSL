@@ -39,11 +39,6 @@ Currently, I focus my studies on **Linux environments, DevOps practices, and bac
 
 ---
 
-### 🟦 Recently Played on Spotify 🎵
-
-<div align="center">
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31djbofn7caxq3tkftfopoy3sw34&unique=true)
 
 </div>
 
