@@ -39,10 +39,7 @@ Currently, I focus my studies on **Linux environments, DevOps practices, and bac
 
 ---
 
-
-</div>
-
----
+<div>
 
 ### 🟦 GitHub Stats
 
